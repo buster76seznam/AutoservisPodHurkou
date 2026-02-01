@@ -1,4 +1,3 @@
-import React from 'react';
 import { Phone, MapPin, Clock, Wrench, CheckCircle, Car, Shield } from 'lucide-react';
 
 function App() {
